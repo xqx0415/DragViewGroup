@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawableTop="@drawable/ic_two"
+    android:id="@+id/id_tv_user_name_meeting_room"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="5dp"
+    android:textSize="20sp"
+    android:text="aaa">
+
+</TextView>
+
